@@ -10,15 +10,15 @@ header:
       url: "/portfolio/"
 excerpt: "Philip Butcher is a young design engineer passionate about human-centered design thinking and sustainability. He has a diverse set of both technical and interpersonal skills that he has gained through various experiences."
 feature_row:
-  - image_path: assets/img/Drone_Mount_Photobooth.jpg
+  - image_path: assets/img/Drone_Mount_Mannequin.jpg
     alt: "Drone Mount"
     title: "Drone Mount"
     excerpt: "Customizable 3D printable drone mount"
-  - image_path: /assets/img/Tibial_Implant_1.png
+  - image_path: assets/img/Tibial_Implant_Closeup.jpg
     alt: "Tibial Implants"
     title: "Tibial Implants"
     excerpt: "Radically new tibial implants used in study on total knee replacement surgeries"
-  - image_path: /assets/img/Syringe_Pump_Overview.png
+  - image_path: /assets/img/Syringe_Pump_Front.png
     title: "Syringe Pump"
     excerpt: "Programmable syringe pump as apart of a class project"
 ---
