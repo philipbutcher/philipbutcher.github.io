@@ -32,6 +32,6 @@ A project led by Philip for the Nashville Metropolitan Polic Department was feat
 
 ## Awards 
 
-Philip won the Nashville Police Department's Community Service Award which was accepted by Garrett Thorne on behalf of Philip. The award was presented by Mayor Freddie O'Connell and Chief of Police John Drake.
+Philip won the Nashville Police Department's Community Service Award which was accepted by friend and mentor, Garrett Thorne, on behalf of Philip. The award was presented by Mayor Freddie O'Connell and Chief of Police John Drake.
 
-<img src="/assets/img/Garrett_Accepting_Award.png" alt="Philip Butcher" style="width:500px;"/>
+<img src="/assets/img/Garrett_Accepting_Award.png" alt="Philip Butcher" style="width:800px;"/>
