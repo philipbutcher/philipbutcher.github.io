@@ -1,31 +1,33 @@
 ---
 
-title: "About David Florian"
+title: "About Philip Butcher"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Philip is in his final year at Vanderbilt University. He specializes in product design and rapid prototyping.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Mechanical Engineering
+  * Minors:
+    * Business
+    * Digital Fabrication
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Philip has been building his expertise in all aspects of design ideation, prototyping, and creation. These skills include:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* SolidWorks (DASSAULT SYSTEMES CERTIFIED)
+* MATLAB
+* 3D Printing
+* Laser Cutting
+* AutoCAD
+* Lathe and Mill
+* Microsoft Office Suite (Word, PowerPoint, Excel)
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+A project led by Philip for the Nashville Metropolitan Polic Department was featured in an [article] by the Vanderbilt's Center for Innovation, the Wond'ry (https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
