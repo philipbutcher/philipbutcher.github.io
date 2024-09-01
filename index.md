@@ -18,7 +18,7 @@ feature_row:
     alt: "Tibial Implants"
     title: "Tibial Implants"
     excerpt: "Radically new tibial implants used in study on total knee replacement surgeries"
-  - image_path: /assets/img/Syringe_Pump_Front.png
+  - image_path: assets/img/Syringe_Pump_Front.jpg
     title: "Syringe Pump"
     excerpt: "Programmable syringe pump as apart of a class project"
 ---
