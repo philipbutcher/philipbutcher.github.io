@@ -30,7 +30,7 @@ Philip has been building his expertise in all aspects of design ideation, protot
 
 A project led by Philip for the Nashville Metropolitan Polic Department was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
-** Awards
+## Awards 
 
 Philip won the Nashville Police Department's Community Service which was accepted by Garrett Thorne on behalf of Philip. The award was presented by Mayor Freddie O'Connell and Chief of Police John Drake.
 
