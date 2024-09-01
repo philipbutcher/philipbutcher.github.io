@@ -28,6 +28,6 @@ Philip has been building his expertise in all aspects of design ideation, protot
 
 ## Press 
 
-A project led by Philip for the Nashville Metropolitan Polic Department was featured in an [article] by the Vanderbilt's Center for Innovation, the Wond'ry (https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
+A project led by Philip for the Nashville Metropolitan Polic Department was featured in an [article] by the Vanderbilt's Center for Innovation, the Wond'ry.(https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
