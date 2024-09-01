@@ -28,6 +28,10 @@ Philip has been building his expertise in all aspects of design ideation, protot
 
 ## Press 
 
-A project led by Philip for the Nashville Metropolitan Polic Department was featured in an [article].(https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
+A project led by Philip for the Nashville Metropolitan Polic Department was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+** Awards
+
+Philip won the Nashville Police Department's Community Service which was accepted by Garrett Thorne on behalf of Philip. The award was presented by Mayor Freddie O'Connell and Chief of Police John Drake.
+
+<img src="/assets/img/Garrett_Accepting_Award.png" alt="Philip Butcher" style="width:200px;"/>
