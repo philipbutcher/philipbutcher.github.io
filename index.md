@@ -14,7 +14,7 @@ feature_row:
     alt: "Drone Mount"
     title: "Drone Mount"
     excerpt: "Customizable 3D printable drone mount"
-  - image_path: assets/img/Tibial_Implant_Closeup.jpg
+  - image_path: assets/img/Tibial_Implant_CloseupEdit.jpg
     alt: "Tibial Implants"
     title: "Tibial Implants"
     excerpt: "Radically new tibial implants used in study on total knee replacement surgeries"
