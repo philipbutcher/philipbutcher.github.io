@@ -70,3 +70,19 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 #### Code
 The code can be found [here:](https://github.com/philipbutcher/philipbutcher.github.io/blob/main/assets/img/Arduino%20Code.txt)
+
+#### Pump Operations
+
+ * Extend the carriage
+ * Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
+ * Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder
+ * Double chek tip is resting in the Tip Support Groove
+ * Adjust desired flow rate dial or enter value in Arduino [code](https://github.com/philipbutcher/philipbutcher.github.io/blob/main/assets/img/Arduino%20Code.txt)
+ * Automated Use:
+   * Adjust desired flow rate
+   * Hit Red Button with silver Casing
+ * Manual Use:
+   * Hit third button for forward movement
+   * Hit fourth button for backwards movement
+
+
