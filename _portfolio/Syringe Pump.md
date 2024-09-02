@@ -34,7 +34,17 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 #### Part List (Bought)
 
-| Part Name                                 | Quantity      |
-| :----------------------------------------:|:-------------:|
-| 200 mm Linear Rod (8mm diameter)          | right-aligned |
-| LM8UU Linear Bearing (8 mm diameter)      | right-aligned |
+| Part Name                                     | Quantity|
+| :--------------------------------------------:|:--:|
+| 200 mm Linear Rod (8mm diameter)              | 2  |
+| LM8UU Linear Bearing (8 mm diameter)          | 2  |
+| 2040 Aluminum Extrusion 1' Length             | 1  |
+| Nema 17 Stepper Motor                         | 1  |
+| AC-DC Power Supply Quad Output 5V 12V 24V 12V | 1  |
+| Arduino Uno                                   | 1  |
+| A4988 Stepper Driver                          | 1  |
+| Small Breadboard                              | 1  |
+| A4988 Stepper Driver                          | 1  |
+| Panel Mount Latching Push Buttons             | 1  |
+| Limit Switch                                  | 1  |
+| RGB Common Cathod LED                         | 1  |
