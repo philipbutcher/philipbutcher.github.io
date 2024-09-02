@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/img/Drone_Mount_Mannequin.jpg
     alt: "Drone Mount"
     title: "Drone Mount"
-    excerpt: "Customizable 3D Printed Drone Mount Being Used Across the Globe"
+    excerpt: "Customizable 3D Printed Drone Mount Being Used Across The Globe"
   - image_path: assets/img/3implantsaftertesting.jpg
     alt: "Tibial Implants"
     title: "Tibial Implants"
