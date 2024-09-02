@@ -1,0 +1,134 @@
+1. #include <AccelStepper.h>
+2.  
+3. const int PIN_STEPPER1 = 3;
+4. const int PIN_STEPPER2 = 2;
+5. const int PIN_POTENTIOMETER = A0;
+6. const int PIN_SWITCH_PAUSE = 4;
+7. const int PIN_SWITCH_LIMIT = 10;
+8. const int PIN_BUTTON_FORWARD = 5;
+9. const int PIN_BUTTON_BACKWARD = 6;
+10. const int PIN_MS1 = 11;
+11. const int PIN_MS2 = 12;
+12. const int PIN_MS3 = 13;
+13. const int PIN_LEDR = 7;
+14. const int PIN_LEDG = 9;
+15. const int PIN_LEDB = 8;
+16. const float SYRINGE_DIAMETER = 14.5;  // mm, 19.13 for 20mL, 14.5 for 10mL
+17. const float MIN_FLOW_RATE = 0.4;         // mL/min
+18. const float MAX_FLOW_RATE = 101;       // mL/min
+19. const int LEAD_SCREW_LENGTH = 4;
+20. const int STEPS_PER_ROTATION = 200;
+21. float flowRate = 20;
+22. float milimetersPerMin = (flowRate * 1000) / (SYRINGE_DIAMETER * SYRINGE_DIAMETER * 0.25 * PI);
+23. int stepsPerSecond = ((milimetersPerMin / 60) / LEAD_SCREW_LENGTH) * STEPS_PER_ROTATION;
+24.  
+25. int currentState = -1;  // current state on/pause/done
+26.  
+27. const int POT_AVG_SIZE = 100;
+28. int lastPot[POT_AVG_SIZE];
+29.  
+30. AccelStepper stepper(AccelStepper::DRIVER, 3, 2);
+31.  
+32. void setup() {
+33.   Serial.begin(115200);
+34.  
+35.   pinMode(PIN_STEPPER1, OUTPUT);
+36.   pinMode(PIN_STEPPER2, OUTPUT);
+37.   pinMode(PIN_POTENTIOMETER, INPUT);
+38.   pinMode(PIN_SWITCH_PAUSE, INPUT);
+39.   pinMode(PIN_SWITCH_LIMIT, INPUT);
+40.   pinMode(PIN_BUTTON_FORWARD, INPUT);
+41.   pinMode(PIN_BUTTON_BACKWARD, INPUT);
+42.   pinMode(PIN_LEDR, OUTPUT);
+43.   pinMode(PIN_LEDG, OUTPUT);
+44.   pinMode(PIN_LEDB, OUTPUT);
+45.   pinMode(PIN_MS1, OUTPUT);
+46.   pinMode(PIN_MS2, OUTPUT);
+47.   pinMode(PIN_MS3, OUTPUT);
+48.  
+49.   digitalWrite(PIN_SWITCH_PAUSE, HIGH);
+50.   digitalWrite(PIN_SWITCH_LIMIT, HIGH);
+51.   digitalWrite(PIN_BUTTON_FORWARD, HIGH);
+52.   digitalWrite(PIN_BUTTON_BACKWARD, HIGH);
+53.   digitalWrite(PIN_MS1, HIGH);
+54.   digitalWrite(PIN_MS2, HIGH);
+55.   digitalWrite(PIN_MS1, HIGH);
+56.  
+57.   stepper.setMaxSpeed(500);
+58.  
+59.   setCurrentState(1);
+60.  
+61.   delay(500);
+62. }
+63.  
+64. void setCurrentState(int state) {
+65.   if (state == currentState) return;
+66.   if (state == 0 && currentState == 2) return;
+67.  
+68.   digitalWrite(PIN_LEDR, LOW);
+69.   digitalWrite(PIN_LEDG, LOW);
+70.   digitalWrite(PIN_LEDB, LOW);
+71.  
+72.   if (state == 0) {
+73.     digitalWrite(PIN_LEDG, HIGH);
+74.   } else if (state == 1) {
+75.     digitalWrite(PIN_LEDR, HIGH);
+76.     analogWrite(PIN_LEDG, 130);
+77.   } else if (state == 2) {
+78.     digitalWrite(PIN_LEDR, HIGH);
+79.   }
+80.  
+81.   currentState = state;
+82. }
+83.  
+84. int getPotentiometerValue(int rawVal) {
+85.   for (int i = 0; i < POT_AVG_SIZE - 1; i++) lastPot[i] = lastPot[i + 1];
+86.   lastPot[POT_AVG_SIZE - 1] = rawVal;
+87.  
+88.   int maxVal = 0;
+89.   for (int i = 0; i < POT_AVG_SIZE; i++) maxVal = max(maxVal, lastPot[i]);
+90.  
+91.   return maxVal;
+92. }
+93.  
+94. void calculateSpeed(int potVal) {
+95.   potVal = 1023 - potVal;
+96.   flowRate = (potVal / 1023.0) * (MAX_FLOW_RATE - MIN_FLOW_RATE) + MIN_FLOW_RATE;
+97.   milimetersPerMin = (flowRate * 1000) / (SYRINGE_DIAMETER * SYRINGE_DIAMETER * 0.25 * PI);
+98.   stepsPerSecond = ((milimetersPerMin / 60 * 2) / LEAD_SCREW_LENGTH) * STEPS_PER_ROTATION;
+99. }
+100.  
+101. void loop() {
+102.   if (!digitalRead(PIN_SWITCH_PAUSE)) {
+103.     setCurrentState(1);
+104.   } else {
+105.     setCurrentState(0);
+106.   }
+107.  
+108.   if (currentState == 0) {
+109.     if (!digitalRead(PIN_SWITCH_LIMIT)) {
+110.       setCurrentState(2);
+111.     } else {
+112.       stepper.setSpeed(-stepsPerSecond);
+113.       stepper.runSpeed();
+114.     }
+115.   } else if (currentState == 1) {
+116.     if (!digitalRead(PIN_BUTTON_FORWARD)) {
+117.       stepper.setSpeed(-stepsPerSecond);
+118.       stepper.runSpeed();
+119.     } else if (!digitalRead(PIN_BUTTON_BACKWARD)) {
+120.       stepper.setSpeed(stepsPerSecond);
+121.       stepper.runSpeed();
+122.     } else {
+123.       stepper.stop();
+124.     }
+125.  
+126.     Serial.println(flowRate);
+127.  
+128.     int potVal = getPotentiometerValue(analogRead(PIN_POTENTIOMETER));
+129.     calculateSpeed(potVal);
+130.   } else if (currentState == 2) {
+131.     stepper.stop();
+132.   }
+133. }
+
