@@ -32,3 +32,9 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 {% include gallery %}
 
+#### Part List (Bought)
+
+| Part Name                                 | Quantity      |
+| :----------------------------------------:|:-------------:|
+| 200 mm Linear Rod (8mm diameter)          | right-aligned |
+| LM8UU Linear Bearing (8 mm diameter)      | right-aligned |
