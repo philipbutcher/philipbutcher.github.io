@@ -1,6 +1,6 @@
 ---
 title: "Knee Implants"
-excerpt: "Radically new tibial implants apart of study on total knee replacement surgeries"
+excerpt: "Radically New Tibial Implants to Mitigate Lipid Contamination"
 header:
   teaser: assets/img/3implantsaftertesting.jpg
 
