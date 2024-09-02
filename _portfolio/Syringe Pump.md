@@ -32,10 +32,14 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 {% include gallery %}
 
+
 #### Part List (Bought)
 
 | Part Name                                     | Quantity|
 | :--------------------------------------------:|:--:|
+| 250 mm Lead Screw (2 mm Pitch 2 mm Lead)      | 1  |
+| 250 mm Lead Screw (2 mm Pitch 8 mm Lead)      | 1  |
+| 1/4"x8 mm Flexible Coupling                   | 1  |
 | 200 mm Linear Rod (8mm diameter)              | 2  |
 | LM8UU Linear Bearing (8 mm diameter)          | 2  |
 | 2040 Aluminum Extrusion 1' Length             | 1  |
@@ -48,3 +52,18 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 | Panel Mount Latching Push Buttons             | 1  |
 | Limit Switch                                  | 1  |
 | RGB Common Cathod LED                         | 1  |
+
+#### Part List (3D Printed)
+
+| Part Nam                | Quantity|
+| :----------------------:|:--:|
+| Plastic Base            | 2  |
+| Plastic Lid             | 2  |
+| Logo Clip               | 1  |
+| Title Page              | 1  |
+| Syringe Carriage        | 1  |
+| End Support             | 1  |
+| Motor Mounting Plate    | 1  |
+| Syringe Tip Support     | 1  |
+| Syringe Plunger Support | 1  |
+
