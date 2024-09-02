@@ -12,9 +12,9 @@ gallery:
   - url: /assets/img/Syringe_Pump_CAD.png
     image_path: /assets/img/Syringe_Pump_CAD.png
     alt: "Syringe Pump CAD Model"
-     - url: /assets/img/Syringe_Pump_CADinside.png
+  - url: /assets/img/Syringe_Pump_CADinside.png
     image_path: /assets/Syringe_Pump_CADinside.png
-    alt: "Syringe Pump CAD Model"
+    alt: "Arduino Inside of CAD Model"
 
 ---
 
