@@ -7,4 +7,4 @@ header:
   
 ---
 
-<img src="/assets/img/Tray Cleaner.jpg" alt="Philip Butcher" style="width:1800px;"/>
+<img src="/assets/img/Tray Cleaner.jpg" alt="Philip Butcher" style="width:1000px;"/>
