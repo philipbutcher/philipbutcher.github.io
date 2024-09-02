@@ -20,7 +20,8 @@ Philip is in his final year at Vanderbilt University. He specializes in product 
   * Redesigned window seal endcap to allow for cost savings estimated at $80,000/year
   * Updated application path of hem sealer to eliminate paint defects on body panels
   * Benchmarked industry standards and trends for door design
-    <br>
+<br>
+
 #### Student Design Engineer | The Wond’ry (May 2023 – Present)
   * Designed and manufactured working prototypes for various clients including the MetroNashville Police Department and Vanderbilt Medical Center
   * Operated 3D printers, laser cutters, hand tools, and machinery for students and researchers
