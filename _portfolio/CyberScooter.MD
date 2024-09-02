@@ -1,21 +1,19 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Syringe Pump"
+excerpt: "Programmable syringe pump"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/Syringe_Pump_Front.jpg
+
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/Syringe_Pump_Front.jpg
+    image_path: /assets/img/Syringe_Pump_Front.jpg
+    alt: "Real Life Syringe Pump"
+  - url: /assets/img/Syringe_Pump_CAD.jpg.png
+    image_path: /assets/img/Syringe_Pump_CAD.jpg.png
+    alt: "Syringe Pump CAD Model"
+
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+Syringe pumps are precision devices that use a motor-driven lead screw to deliver controlled amounts of fluid, ensuring accuracy and sterility. They are essential in medical and scientific fields, but despite their simple design, they can cost hundreds of dollars, making custom fabrication a worthwhile option. As a design challenge for class, a custom syringe pump was created using 3D-printed parts. A stepper motor drove the lead screw, and an Arduino program allowed for the adjustable flow rate. The pump featured user-friendly controls with indicator LEDs, a motor cutoff when out of liquid, and durable, water-resistant wiring. The entire build could be assembled and taken apart without glue or hammering of components.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
