@@ -8,11 +8,11 @@ title: "About Philip Butcher"
 
 Philip is in his final year at Vanderbilt University. He specializes in product design and rapid prototyping, and has worked on a variety of projects.
 
-* Vanderbilt University (May 2025)
-  * BE Mechanical Engineering
-  * Minors:
-    * Business
-    * Digital Fabrication
+### Vanderbilt University (May 2025)
+ * BE Mechanical Engineering
+ * Minors:
+   * Business
+   * Digital Fabrication
 
 ## Work Experience
 
@@ -21,16 +21,17 @@ Philip is in his final year at Vanderbilt University. He specializes in product 
   * Redesigned window seal endcap to allow for cost savings estimated at $80,000/year
   * Updated application path of hem sealer to eliminate paint defects on body panels
   * Benchmarked industry standards and trends for door design
- ### Student Design Engineer | The Wond’ry                         May 2023 – Present
+ ### Student Design Engineer | The Wond’ry (May 2023 – Present)
   * Designed and manufactured working prototypes for various clients including the MetroNashville Police Department and Vanderbilt Medical Center
   * Operated 3D printers, laser cutters, hand tools, and machinery for students and researchers
   * Assisted students and researchers in their respective design processes
- ### Orientation Leader | Vanderbilt University            April 2022 – November 2022
+ ### Orientation Leader | Vanderbilt University (April 2022 – November 2022)
   * Taught 9-week course for first-year students to help transition them toward college
   * Extensive training in mental health awareness, group facilitation, and resources on campus
- ### Camp Counselor | Port Washington Yacht Club              June 2019 – August 2022
-  * Assisted in operations of camp such as directing traffic and reporting to management.
-  * Responsible for the safety and well-being boys ages 8-15
+ ### Vanderbilt Fusion Project | Vacuum and Gas Team (August 2022 – Present)
+  * Founding member of undergraduate student team devoted to creating an IEC Fusion Reactor on campus
+  *  Designed steal reaction chamber and analyzed pump configurations and integration
+  *  Negotiated with suppliers for the best prices on pumps, flanges, and other supplies
 
 
 ## Technical Skills
