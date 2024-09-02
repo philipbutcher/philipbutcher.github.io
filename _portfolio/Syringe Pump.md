@@ -30,5 +30,5 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c61ba362f5253333?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery %}
 
