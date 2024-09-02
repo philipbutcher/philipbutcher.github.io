@@ -1,6 +1,6 @@
 ---
 title: "Drone Mount"
-excerpt: "Customizable 3D printable drone mount being used across the globe"
+excerpt: "Customizable 3D Printed Drone Mount Being Used Across the Globe"
 header:
   teaser: /assets/img/Drone_Mount_Mannequin.jpg
 
