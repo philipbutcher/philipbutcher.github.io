@@ -2,7 +2,6 @@
 title: "Knee Implants"
 excerpt: "Radically new tibial implants apart of study on total knee replacement surgeries"
 header:
-  image: assets/img/3implantsaftertesting.jpg
   teaser: assets/img/3implantsaftertesting.jpg
 
 
