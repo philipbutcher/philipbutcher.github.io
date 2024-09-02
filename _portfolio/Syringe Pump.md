@@ -68,3 +68,6 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 | Syringe Tip Support     | 1  |
 | Syringe Plunger Support | 1  |
 
+#### Code
+The code can be found here:
+image_path: assets/img/Arduino Code.txt
