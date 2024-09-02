@@ -57,8 +57,8 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 | Part Nam                | Quantity|
 | :----------------------:|:--:|
-| Plastic Base            | 2  |
-| Plastic Lid             | 2  |
+| Plastic Base            | 1  |
+| Plastic Lid             | 1  |
 | Logo Clip               | 1  |
 | Title Page              | 1  |
 | Syringe Carriage        | 1  |
