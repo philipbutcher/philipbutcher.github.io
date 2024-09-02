@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "Programmable syringe pump"
+excerpt: "Custom fabricated syringe pump with variable flow rate and simple controls"
 header:
   image: /assets/img/Syringe_Pump_Front.jpg
   teaser: /assets/img/Syringe_Pump_Front.jpg
