@@ -18,10 +18,10 @@ Philip is in his final year at Vanderbilt University. He specializes in product 
 
 ##### Door Design Intern | Nissan North America (May 2024 – August 2024)
 
-  * Conducted root cause analysis and implemented foam countermeasures to reduce noise and vibration in Nissan car doors.
-  * Redesigned window seal endcap to allow for cost savings estimated at $80,000/year
-  * Updated application path of hem sealer to eliminate paint defects on body panels
-  * Benchmarked industry standards and trends for door design
+######  * Conducted root cause analysis and implemented foam countermeasures to reduce noise and vibration in Nissan car doors.
+######  * Redesigned window seal endcap to allow for cost savings estimated at $80,000/year
+######  * Updated application path of hem sealer to eliminate paint defects on body panels
+######  * Benchmarked industry standards and trends for door design
 
 ##### Student Design Engineer | The Wond’ry (May 2023 – Present)
 
