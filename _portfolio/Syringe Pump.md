@@ -28,7 +28,7 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 * **Ease of Use** To allow for easy usability, a single button would start and stop the pump, and an LED would turn green when the machine was running, yellow when paused, and red when fully out of liquid. When out of liquid, a switch stopped the motor from continuing to run, and all electrical components were wrapped in heat shrink to protect against water damage.
 
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c61ba362f5253333?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c61ba362f5253333?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery %}
 
