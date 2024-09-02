@@ -1,6 +1,6 @@
 ---
 title: "Rapid Tray Cleaner"
-excerpt: "Tray cleaning device created as a solution for a local Nashville company"
+excerpt: "Tray Cleaning Device Created As Solution For A Local Nashville Company"
 header:
   teaser: /assets/img/Tray Cleaner.jpg
 
