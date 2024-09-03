@@ -9,7 +9,7 @@ gallery:
     image_path: /assets/img/Syringe_Pump_Front.jpg
     alt: "Real Life Syringe Pump"
   - url: /assets/img/Syringe_Pump_CAD.png
-    image_path: /assets/img/Syringe_Pump_CAD.png
+    image_path: /assets/img/Resin Rebels CAD.png
     alt: "Syringe Pump CAD Model"
   - url: /assets/img/Syringe_Pump_CADinside.png
     image_path: /assets/img/Syringe_Pump_CADinside.png
