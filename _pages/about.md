@@ -23,7 +23,7 @@ Philip is an aspiring design engineer passionate about human-centered design thi
 <br>
 
 #### Student Design Engineer | The Wond’ry (May 2023 – Present)
-  * Designed and manufactured working prototypes for various clients including the MetroNashville Police Department and Vanderbilt Medical Center
+  * Designed and manufactured working prototypes for various clients including the Metro-Nashville Police Department and Vanderbilt Medical Center
   * Operated 3D printers, laser cutters, hand tools, and machinery for students and researchers
   * Assisted students and researchers in their respective design processes
     
