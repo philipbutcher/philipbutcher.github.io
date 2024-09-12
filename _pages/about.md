@@ -4,9 +4,9 @@ title: "About Philip Butcher"
 
 ---
 
-## Education
-
 Philip is an aspiring design engineer passionate about human-centered design thinking and sustainability. He has a diverse set of both technical and soft skills necessary for creative thinking and innovation, and extensive experience on both solo and group design projects for a variety of clients.
+
+## Education
 
 ### Vanderbilt University (May 2025)
  * BE Mechanical Engineering
