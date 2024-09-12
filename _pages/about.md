@@ -54,7 +54,7 @@ A project led by Philip for the Nashville Metropolitan Polic Department was feat
 
 ## Awards and Publications
 
-Philip is a coauthor of the research journal "Do Cement Pockets Prevent Fluid Contamination of the Undersurface of Tibial Baseplates?", which has just recently been published to the Journal of Clinical and Translational Research.
+Philip is a coauthor of the research journal "Do Cement Pockets Prevent Fluid Contamination of the Undersurface of Tibial Baseplates?", which has just recently been published to the [Journal of Clinical and Translational Research](https://www.jctres.com/media/filer_public/21/55/21553102-8ab8-4090-bd25-c4bf975f3d22/3_jctr_v10i4_005_-_proof_30_finalized.pdf).
 
 
 Philip won the Nashville Police Department's Community Service Award which was accepted by friend and mentor, Garrett Thorne, on behalf of Philip. The award was presented by Mayor Freddie O'Connell and Chief of Police John Drake.
