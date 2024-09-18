@@ -4,7 +4,7 @@ title: "About Philip Butcher"
 
 ---
 <br>
-Philip is an aspiring design engineer passionate about human-centered design thinking and sustainability. He has a diverse set of both technical and soft skills necessary for creative thinking and innovation, and extensive experience on both solo and group design projects for a variety of clients.
+Philip is an aspiring design engineer passionate about human-centered design thinking and sustainability. He has a diverse set of both technical and soft skills necessary for creative thinking and innovation. He has extensive experience on both solo and group design projects for a variety of clients.
 
 ## Education
 
@@ -50,7 +50,7 @@ Philip has been building his expertise in all aspects of design ideation, protot
 
 ## Press 
 
-A project led by Philip for the Nashville Metropolitan Polic Department was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
+A project led by Philip for the Nashville Metropolitan Police Department was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
 ## Awards and Publications
 
