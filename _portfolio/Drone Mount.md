@@ -28,7 +28,7 @@ The Metro-Nashville SWAT Unit purchased several DJI Avata drones to provide visu
 
 * **Simple and Customizable** The mount was created entirely in SolidWorks as a single component. While designed for the NVG Wilcox Mount, adjustability in the assembly allows for any mount attachment to be custom fitted to part to allow for integration with all types of police equipment.
 * **Human Centered Design** Each prototype was shown to the police officers who would use the mount, with extensive interviews being conducted to understand potential failure points in the design. This allowed for a final product that is minimally invasive, tight-fitting, and rigid against the typical wear and tear seen on the job.
-* **Accessibility** The part remains free to download for everyone. Officers across the globe can be sent the stl. file of the part and 3D print it using any standard 3D printer. 231 enforcement agencies across 39 states and 13 countries are now using the mount, including federal, state, and local agencies, as well as anti-terrorism agencies in the United Kingdom, Spain, Netherlands, France, and the Czech Republic. This list is expected to continue growing through word of mouth.
+* **Accessibility** The part remains free to download for everyone. Officers across the globe can be sent the stl. file of the part and 3D print it using any standard 3D printer. **231 enforcement agencies across 39 states and 13 countries are now using the mount, including federal, state, and local agencies, as well as anti-terrorism agencies in the United Kingdom, Spain, Netherlands, France, and the Czech Republic.** This list is expected to continue growing through word of mouth.
 
 
 ## CAD Model
