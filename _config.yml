@@ -97,7 +97,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Professional Headshot.jpg"
-  bio              : "Engineer passionate about human-centered design thinking"
+  bio              : "Design Engineer"
   location         : "Long Island, NY"
   links:
     - label: "GitHub"
