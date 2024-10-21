@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Philip Butcher is a young design engineer passionate about human-centered design thinking and sustainability. He has a diverse set of both technical and interpersonal skills that he has gained through a variety of projects."
+excerpt: "Philip Butcher is in his final year at Vanderbilt University studying Mechanical Engineering. He is passionate about design thinking and sustainability, and has a range of experiences on both solo and group projects."
 feature_row:
   - image_path: assets/img/Drone_Mount_Mannequin.jpg
     alt: "Drone Mount"
