@@ -9,10 +9,8 @@ Philip is an aspiring design engineer passionate about human-centered design thi
 ## Education
 
 ### Vanderbilt University (May 2025)
- * BE Mechanical Engineering
- * Minors:
-   * Business
-   * Digital Fabrication
+ * Major: BE Mechanical Engineering
+ * Minors: Business and Digital Fabrication
 
 ## Work Experience
 #### Door Design Intern | Nissan North America (May 2024 – August 2024)
