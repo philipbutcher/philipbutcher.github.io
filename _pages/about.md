@@ -42,7 +42,7 @@ Philip has been building his expertise in all aspects of design ideation, protot
 * MATLAB
 * 3D Printing
 * Laser Cutting
-* AutoCAD
+* Fusion 360
 * Lathe and Mill
 * Microsoft Office Suite (Word, PowerPoint, Excel)
 
