@@ -30,6 +30,8 @@ The Metro-Nashville SWAT Unit purchased several DJI Avata drones to provide visu
 * **Human Centered Design** Each prototype was shown to the police officers who would use the mount, with extensive interviews being conducted to understand potential failure points in the design. This allowed for a final product that is minimally invasive, tight-fitting, and rigid against the typical wear and tear seen on the job.
 * **Accessibility** The part remains free to download for anyone. Officers across the globe can be sent the stl. file of the part and 3D print it using any standard 3D printer. **231 enforcement agencies across 39 states and 13 countries are now using the mount, including federal, state, and local agencies, as well as anti-terrorism agencies in the United Kingdom, Spain, Netherlands, France, and the Czech Republic.** This list is expected to continue growing through word of mouth.
 
+## Press
+Due to the success of the mount, Philip was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4baf0d3a7a696d3b1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
