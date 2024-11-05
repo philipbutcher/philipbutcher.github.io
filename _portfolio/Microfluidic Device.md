@@ -8,9 +8,6 @@ gallery:
   - url: /assets/img/Device.jpg
     image_path: /assets/img/Device.jpg
     alt: "Microfluidic Device"
-  - url: /assets/img/Mold.jpg
-    image_path: /assets/img/Mold.jpg
-    alt: "3D Printed Mold"
   - url: /assets/img/Angled View Microfluid.png
     image_path: /assets/img/Angled View Microfluid.png
     alt: "CAD Model of Mold"
