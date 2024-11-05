@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "Resin printed device to separate particles at the micron scale"
 header:
-  teaser:/assets/img/Device.jpg
+  teaser: /assets/img/Device.jpg
 
 gallery:
   - url: /assets/img/Device.jpg
