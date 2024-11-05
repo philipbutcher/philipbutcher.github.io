@@ -2,22 +2,26 @@
 title: "Microfluidic Device"
 excerpt: "Resin printed device to separate particles at the micron scale"
 header:
-  teaser: /assets/img/Syringe_Pump_Front.jpg
+  teaser:/assets/img/Device.jpg
 
 gallery:
-  - url: /assets/img/Syringe_Pump_Front.jpg
-    image_path: /assets/img/Syringe_Pump_Front.jpg
-    alt: "Real Life Syringe Pump"
-  - url: /assets/img/Syringe_Pump_CAD.png
-    image_path: /assets/img/Resin Rebels CAD.png
-    alt: "Syringe Pump CAD Model"
-  - url: /assets/img/Syringe_Pump_CADinside.png
-    image_path: /assets/img/Syringe_Pump_CADinside.png
-    alt: "Arduino Inside of CAD Model"
+  - url: /assets/img/Device.jpg
+    image_path: /assets/img/Device.jpg
+    alt: "Microfluidic Device"
+  - url: /assets/img/Mold.jpg
+    image_path: /assets/img/Mold.jpg
+    alt: "3D Printed Mold"
+  - url: /assets/img/Angled View Microfluid.png
+    image_path: /assets/img/Angled View Microfluid.png
+    alt: "CAD Model of Mold"
+  - url: /assets/img/Top View Microfluid.png
+    image_path: /assets/img/Top View Microfluid.png
+    alt: "Top View of CAD Model"
+    
 
 ---
 
-<img src="/assets/img/Syringe_Pump_Front.jpg" alt="Philip Butcher" style="width:900px;"/>
+<img src="/assets/img/Angled View Microfluid.png" alt="Philip Butcher" style="width:900px;"/>
 
 ## About
 Microfluidic devices are systems that can manipulate tiny volumes of fluid at the micro-scale level, allowing for precise control over fluid flow and enabling applications across biomedical, chemical, and environmental fields. Real world examples can include bloodwork, drug development, cell separation, and more. Homogeneous mixing in microfluidics is especially common as the consistent mixing of reagents with biological samples is essential to achieve accurate and reproducible results. Yet, achieving effective mixing in microfluidic devices presents a unique challenge due to the dominance of laminar flow at this scale. In the microchannels of the device, liquid tends to flow in parallel layers without the turbulence that typically creates a mixing effect. Consequently, to achieve homogenous mixing, microfluidic designs must incorporate features such as winding channels, staggered obstacles, or split paths to promote diffusion and enhance mixing efficiency in the confined spaces of a microfluidic device. As a design challenge for a class, a microfluidic device was designed and printed with the ability to separate particles of 165 and 550 microns in diameter.
