@@ -2,7 +2,7 @@
 title: "Multi-Material Pliers"
 excerpt: "Functional Pliers Printed Out of TPU And PLA Plastic"
 header:
-teaser: /assets/img/Pliers.JPEG
+  teaser: /assets/img/Pliers.JPEG
 
 gallery:
   - url: /assets/img/CAD Screenshot.png
