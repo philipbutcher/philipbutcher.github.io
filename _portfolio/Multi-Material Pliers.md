@@ -11,6 +11,9 @@ gallery:
   - url: /assets/img/Pliers.JPEG
     image_path: /assets/img/Pliers.JPEG
     alt: "Photo of Pliers"
+      - url: /assets/img/gif.gif
+    image_path: /assets/img/gif.gif
+    alt: "Working Pliers"
     
 
 ---
