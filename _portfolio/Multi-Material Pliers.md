@@ -15,7 +15,7 @@ gallery:
 
 ---
 
-<img src="/assets/img/CAD Screenshot.png" alt="Philip Butcher" style="width:900px;"/>
+<img src="/assets/img/Pliers.JPEG" alt="Philip Butcher" style="width:900px;"/>
 
 ## About
 Print-in-place parts are innovative designs that incorporate moving components or joints within a single 3D print job, removing the need for post-print processing. They are engineered with clearances and tolerances that allow sections to move freely once printed, enabling the creation of hinges, gears, springs, and other complex mechanisms to be utilized in a single device. Real-world examples of print-in-place parts can be found in custom prosthetics and medical devices, as well as in the aerospace and automotive industries where lightweight, compact, and easily assembled components are required. These prints often contain two or more materials. PLA or ABS plastics can be used as a durable, solid frame to offer the necessary strength and resilience needed for functional prototypes. Flexible materials like TPU can be used for shock absorption or elasticity, often being used as the spring component in these devices. The combination of these materials allows for intricate designs that would be challenging or impossible to achieve with traditional manufacturing.
