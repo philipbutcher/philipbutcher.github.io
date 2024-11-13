@@ -11,10 +11,7 @@ gallery:
   - url: /assets/img/Pliers.JPEG
     image_path: /assets/img/Pliers.JPEG
     alt: "Photo of Pliers"
-  - url: /assets/img/gif.gif
-    image_path: /assets/img/gif.gif
-    alt: "Working Pliers"
-    
+
 
 ---
 
@@ -36,3 +33,4 @@ Print-in-place parts are innovative designs that incorporate moving components o
 
 {% include gallery %}
 
+<img src="/assets/img/gif.gif" alt="Philip Butcher" style="width:900px;"/>
