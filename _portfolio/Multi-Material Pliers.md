@@ -33,4 +33,4 @@ Print-in-place parts are innovative designs that incorporate moving components o
 
 {% include gallery %}
 
-<img src="/assets/img/gif.gif" alt="Philip Butcher" style="width:500px;"/>
+<img src="/assets/img/gif.gif" alt="Philip Butcher" style="width:250px;"/>
