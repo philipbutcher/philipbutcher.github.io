@@ -2,7 +2,7 @@
 title: "Phone Bike Mount"
 excerpt: "Powder 3D Printed Rotatable Phone Holder For Bike"
 header:
-teaser: /assets/img/CAD Model.png
+  teaser: /assets/img/CAD Model.png
 
 gallery:
   - url: /assets/img/ CAD Model.png
