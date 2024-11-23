@@ -5,11 +5,11 @@ header:
   teaser: /assets/img/CAD Model.png
 
 gallery:
-  - url: /assets/img/ CAD Model.png
-    image_path: /assets/img/ CAD Model.png
+  - url: /assets/img/CAD Model.png
+    image_path: /assets/img/CAD Model.png
     alt: "CAD Model of Bike Mount"
   - url: /assets/img/Locking Mechanism.png
-    image_path: /assets/img/ Locking Mechanism.png
+    image_path: /assets/img/Locking Mechanism.png
     alt: "Cross Section Analysis of Mount Locking Mechanism"
   - url: /assets/img/Rotating Mechanism.png
     image_path: /assets/img/Rotating Mechanism.png
