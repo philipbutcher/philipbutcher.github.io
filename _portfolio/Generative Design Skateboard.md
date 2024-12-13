@@ -23,7 +23,7 @@ gallery:
 
 ---
 
-<img src="/assets/img/Hanger Assembky.png" alt="Philip Butcher" style="width:900px;"/>
+<img src="/assets/img/Hanger Assembly.png" alt="Philip Butcher" style="width:900px;"/>
 
 ## Generative Design and SLS Printing
 Generative design is a computer modeling technique that allows for the creation of mechanical parts using loads and obstacle geometries. In traditional CAD modeling, a 3-dimensional part is created through a series of sketches and extrusions, with manual calculations being formed to determine the necessary dimensions of a part. With generative design, the required loads (such as forces and torques) are added at different points in a 3-dimensional space, and machine learning algorithms generate a part to meet the given inputs. This generated component is typically stronger and lighter than a traditionally manufactured part. Yet, due to the complex geometry of the design, it can often be very difficult to machine in real life. Luckily, the combination of generative design and powder bed fusion manufacturing methods, such as selective laser sintering (SLS), have revolutionized the way complex components are designed and produced. SLS printing allows for any geometry to be achieved with the same level of ease. The unusual shape of these generative designed parts is no longer an issue, and as SLS technology continues to improve, we will see more and more parts being created and manufactured using generative design.
