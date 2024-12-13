@@ -2,7 +2,7 @@
 title: "Generative Design Skateboard"
 excerpt: "Skateboard Trucked Created Using Generative Design"
 header:
-teaser: /assets/img/Hanger Assembly.png
+  teaser: /assets/img/Hanger Assembly.png
 
 gallery:
   - url: /assets/img/Hanger Assembly.png
