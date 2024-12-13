@@ -20,6 +20,12 @@ gallery:
   - url: /assets/img/Real Life Truck.JPEG
     image_path: /assets/img/Real Life Truck.JPEG
     alt: "Real Life Attachment of Generative Design Truck"
+  - url: /assets/img/Angled View.JPEG
+    image_path: /assets/img/Angled View.JPEG
+    alt: "Real Life Attachment of Generative Design Truck"
+  - url: /assets/img/Sideways View.JPEG
+    image_path: /assets/img/Sideways View.JPEG
+    alt: "Real Life Attachment of Generative Design Truck"
 
 ---
 
