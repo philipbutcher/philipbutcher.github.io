@@ -14,8 +14,8 @@ gallery:
   - url: /assets/img/Nylon Rendering.png
     image_path: /assets/img/Nylon Rendering.png
     alt: " Nylon 12 Skateboard Truck Rendering"
-  - url: /assets/img/Skateboard Rendering.jpg
-    image_path: /assets/img/Skateboard Rendering.jpg
+  - url: /assets/img/Skateboard Rendering.png
+    image_path: /assets/img/Skateboard Rendering.png
     alt: "Rendering of Completed Skateboard Assembly"
   - url: /assets/img/Real Life Truck.JPEG
     image_path: /assets/img/Real Life Truck.JPEG
