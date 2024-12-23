@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Philip Butcher is in his final year at Vanderbilt University studying Mechanical Engineering. He is passionate about design thinking and sustainability, and has a wide range of experiences on both solo and group projects."
+excerpt: "Philip Butcher is a senior at Vanderbilt University, majoring in Mechanical Engineering. With a strong passion for product design and sustainability, he has gained extensive experience working on both individual and collaborative projects, showcasing his creativity, technical expertise, and commitment to impactful innovation."
 feature_row:
   - image_path: assets/img/Drone_Mount_Mannequin.jpg
     alt: "Drone Mount"
