@@ -20,7 +20,7 @@ gallery:
 
 <img src="/assets/img/Drone_Mount_Mannequin.jpg" alt="Philip Butcher" style="width:900px;"/>
 
-## Problem
+## Problem Statement
 The Metro-Nashville SWAT Unit purchased several DJI Avata drones to provide visuals of indoor environments when it could be dangerous for officers to enter. The drones are flown using a handheld controller, and the camera feed is sent to a pair of goggles worn by the operator. The officers wear Kevlar helmets equipped with over-ear headphones and batteries. However, the drone goggles are not designed for integration with their helmet gear, and current methods of securing them to the eyes—such as using string, rubber bands, or a sewn-on elastic band—do not provide a secure connection. This results in compromised control of the drone. The SWAT unit seeks a quick and secure method of holding the goggles to the officers’ faces.
 
 
@@ -28,7 +28,7 @@ The Metro-Nashville SWAT Unit purchased several DJI Avata drones to provide visu
 
 * **Simple and Customizable** The mount was created entirely in SolidWorks as a single component. While designed for the NVG Wilcox Mount, adjustability in the assembly allows for any mount attachment to be custom fitted to part to allow for integration with all types of police equipment.
 * **Human Centered Design** Each prototype was shown to the police officers who would use the mount, with extensive interviews being conducted to understand potential failure points in the design. This allowed for a final product that is minimally invasive, tight-fitting, and rigid against the typical wear and tear seen on the job.
-* **Accessibility** The part remains free to download for anyone. Officers across the globe can be sent the stl. file of the part and 3D print it using any standard 3D printer. **231 enforcement agencies across 39 states and 13 countries are now using the mount, including federal, state, and local agencies, as well as anti-terrorism agencies in the United Kingdom, Spain, Netherlands, France, and the Czech Republic.** This list is expected to continue growing through word of mouth.
+* **Accessibility** The part remains free to download for anyone. Officers across the globe can be sent the part file and 3D print it using any standard 3D printer. **231 enforcement agencies across 39 states and 13 countries are now using the mount, including federal, state, and local agencies, as well as anti-terrorism agencies in the United Kingdom, Spain, Netherlands, France, and the Czech Republic.** This list is expected to continue growing through word of mouth.
 
 ## Press
 With the widespread success of the mount, Philip was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
@@ -36,5 +36,6 @@ With the widespread success of the mount, Philip was featured in an article by V
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4baf0d3a7a696d3b1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Gallery
 
 {% include gallery %}
