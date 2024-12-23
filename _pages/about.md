@@ -4,15 +4,14 @@ title: "About Philip Butcher"
 
 ---
 <br>
-Philip is an aspiring design engineer passionate about human-centered design thinking and sustainability. He has a diverse set of both technical and soft skills necessary for creative thinking and innovation. He has extensive experience on both solo and group design projects for a variety of clients.
+Philip is a senior at Vanderbilt University majoring in Mechanical Engineering with minors in Business and Digital Fabrication. He is passionate about product design, sustainability, and developing innovative solutions that blend form and function. His experiences span designing consumer products, collaborating on large-scale engineering projects, and honing technical and creative skills to address real-world challenges. Philip aims to create designs that are not only practical but also sustainable and impactful.
 
 ## Education
-
 ### Vanderbilt University (May 2025)
  * Major: BE Mechanical Engineering
  * Minors: Business and Digital Fabrication
 
-## Work Experience
+## Work Experiences
 #### Door Design Intern | Nissan North America (May 2024 – August 2024)
   * Conducted root cause analysis and implemented foam countermeasures to reduce noise and vibration in Nissan car doors.
   * Redesigned window seal endcap to allow for cost savings estimated at $80,000/year
