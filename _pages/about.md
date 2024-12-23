@@ -13,21 +13,24 @@ Philip is a senior at Vanderbilt University majoring in Mechanical Engineering w
 
 ## Work Experiences
 #### Door Design Intern | Nissan North America (May 2024 – August 2024)
-  * Conducted root cause analysis and implemented foam countermeasures to reduce noise and vibration in Nissan car doors.
-  * Redesigned window seal endcap to allow for cost savings estimated at $80,000/year
-  * Updated application path of hem sealer to eliminate paint defects on body panels
-  * Benchmarked industry standards and trends for door design
+  * Spearheaded redesign of window seal endcap for over 100,000 vehicles/year with an estimated annual cost savings of $80,000
+  * Conducted root cause analysis and implemented foam countermeasures to reduce noise and vibration in Nissan car doors
+  * Updated application path of inner door hem sealer to eliminate consistent paint defects on body panels
+  * Benchmarked industry standards in electric vehicle door structure to enhance competition analysis 
+
 <br>
 
 #### Student Design Engineer | The Wond’ry (May 2023 – Present)
-  * Designed and manufactured working prototypes for various clients including the Metro-Nashville Police Department and Vanderbilt Medical Center
-  * Operated 3D printers, laser cutters, hand tools, and machinery for students and researchers
-  * Assisted students and researchers in their respective design processes
+  * Designed a drone goggle mount with improved comfort and function that is currently used by 231 law enforcement agencies (federal, state, and local) in 13 countries and 39 states
+  * Engineered working prototypes for clients including the Metro-Nashville Police Department and Vanderbilt Medical Center
+  * Operated 3D printers, laser cutters, molding/casting equipment, hand tools, and machinery for students and faculty
+  * Consulted and provided expertise on prototyping techniques for students and faculty
+
     
 #### Vanderbilt Fusion Project | Vacuum and Gas Team (August 2022 – Present)
   * Founding member of undergraduate student team devoted to creating an IEC Fusion Reactor on campus
-  *  Designed steal reaction chamber and analyzed pump configurations and integration
-  *  Negotiated with suppliers for the best prices on pumps, flanges, and other supplies
+  * Designed steal reaction chamber and analyzed pump configurations and integration
+  * Negotiated with suppliers for the best prices on pumps, flanges, and other supplies
     
 #### Orientation Leader | Vanderbilt University (April 2022 – November 2022)
   * Taught 9-week course for first-year students to help transition them toward college
@@ -37,12 +40,12 @@ Philip is a senior at Vanderbilt University majoring in Mechanical Engineering w
 
 Philip has been building his expertise in all aspects of design ideation, prototyping, and creation. These skills include:
 
-* SolidWorks (DASSAULT SYSTEMES CERTIFIED)
+* SolidWorks (DASSAULT SYSTEMS CERTIFIED)
+* Fusion 360
 * MATLAB
 * 3D Printing
 * Laser Cutting
 * AutoCAD
-* Fusion 360
 * Lathe and Mill
 * Microsoft Office Suite (Word, PowerPoint, Excel)
 
