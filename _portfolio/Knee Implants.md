@@ -34,5 +34,6 @@ First, previous academic journals of Dr. Martin were read to familiarize myself 
 
 ###### While studies are ongoing, the experimental implants have been featured in the academic manuscript "Do Cement Pockets Prevent Fluid Contamination of the Undersurface of Tibial Baseplates?“ which is has been accepted for publication by the [Journal of Clinical and Translational Research](https://www.jctres.com/media/filer_public/21/55/21553102-8ab8-4090-bd25-c4bf975f3d22/3_jctr_v10i4_005_-_proof_30_finalized.pdf).
 
+## Gallery
 
 {% include gallery %}
