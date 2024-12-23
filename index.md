@@ -13,14 +13,14 @@ feature_row:
   - image_path: assets/img/Drone_Mount_Mannequin.jpg
     alt: "Drone Mount"
     title: "Drone Mount"
-    excerpt: "Customizable 3D Printed Drone Mount Being Used Across The Globe"
+    excerpt: "Customizable 3D Printed Drone Mount Used Across The Globe"
   - image_path: assets/img/3implantsaftertesting.jpg
     alt: "Tibial Implants"
     title: "Tibial Implants"
-    excerpt: "Radically New Tibial Implants to Mitigate Lipid Contamination"
+    excerpt: "Radically New Tibial Implants Designed to Mitigate Lipid Contamination"
   - image_path: assets/img/Syringe_Pump_Front.jpg
     title: "Syringe Pump"
-    excerpt: "Programmable Syringe Pump Design For A Class Project"
+    excerpt: "Programmable Syringe Pump For A Class Project"
 ---
 
 {% include feature_row %}
