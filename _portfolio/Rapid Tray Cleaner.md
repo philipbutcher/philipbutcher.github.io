@@ -22,7 +22,7 @@ header:
 
 ## Problem
 
-Radical Shoots is a Nashville-based company that grows microgreens (young seedlings of fruits and vegetables) for restaurants and consumers. The microgreens are grown out of 10”x20” plastic trays which collect mold, dirt, and dead plant matter. Consequently, the trays must be cleaned after every use, resulting in the company devoting hours a week toward hand washing 200+ trays. This is slow, unorganized, and lacks standardization. Furthermore, with the company based out of a greenhouse open to customers, manually scrubbing the trays has caused customers to distrust the cleanliness of the produce, resulting in lower sales. Radical Shoots needs a consistent and efficient way to keep trays clean because current methods are labor-intensive, aesthetically displeasing, and make standardization difficult.
+Radical Shoots is a Nashville-based company that grows microgreens (young seedlings of fruits and vegetables) for restaurants and consumers. The microgreens are grown out of 10”x20” plastic trays which collect mold, dirt, and dead plant matter. Consequently, the trays must be cleaned after each use, requiring the company to spend hours weekly hand-washing over 200 trays. This is slow, unorganized, and lacks standardization. Furthermore, with the company based out of a greenhouse open to customers, manually scrubbing the trays has caused customers to distrust the cleanliness of the produce, resulting in lower sales. Radical Shoots needs a consistent and efficient way to keep trays clean because current methods are labor-intensive, aesthetically displeasing, and make standardization difficult.
 
 
 ## Solution
