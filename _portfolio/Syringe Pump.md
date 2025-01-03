@@ -24,9 +24,9 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 ## Features
 
-* **Simple Construction** The syringe part was assembled with entirely off-the-shelf parts that cost signifcantly less than purchasing a premade syringe pump. The custom pump could be assembled and disassembled without any glue or fasteners, with an adjustable design in Fusion 360 to fit any parameters of an application
-* **Adjustable Flow Rate** With simple programming within the Arduino code, the flow rate of the pump could easily be adjusted. The pump had a minimum flow rate of 1.75 mL/min and a maximum flow rate of 175 mL/minute with a 5 mL syringe installed. If desired, the flow rate could be changed to between 6-600 mL/min with a 20 mL syringe installed. Lastly, with microstepping, flow rates as low as 0.1 mL/min could be achieved. All within the Arduino code, an incredible range of flow rates can be incorprated to accommodate the variety of needs for a syringe pump.
-* **Ease of Use** To allow for easy usability, a single button would start and stop the pump, and an LED would turn green when the machine was running, yellow when paused, and red when fully out of liquid. When out of liquid, a switch stopped the motor from continuing to run, and all electrical components were wrapped in heat shrink to protect against water damage.
+* **Simple Construction** The syringe part was assembled entirely with off-the-shelf parts, significantly reducing costs compared to a premade syringe pump. The custom pump could be assembled and disassembled without any glue or fasteners, with an adjustable design in Fusion 360 to fit any parameters of an application
+* **Adjustable Flow Rate** With simple programming within the Arduino code, the flow rate of the pump could easily be adjusted. The pump had a minimum flow rate of 1.75 mL/min and a maximum flow rate of 175 mL/minute with a 5 mL syringe installed. If desired, the flow rate could be changed to between 6-600 mL/min with a 20 mL syringe installed. Lastly, with microstepping, flow rates as low as 0.1 mL/min could be achieved. All within the Arduino code, a wide range of flow rates can be incorporated to accommodate the variety of needs for a syringe pump.
+* **Ease of Use** To allow for easy usability, a single button would start and stop the pump, and an LED would turn green when the machine was running, yellow when paused, and red when fully out of liquid. A limit switch halted the motor when out of liquid, and heat shrink protected all electrical components from water damage.
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c61ba362f5253333?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -70,19 +70,5 @@ Syringe pumps are precision devices that use a motor-driven lead screw to delive
 
 #### Code
 The code can be found [here:](https://github.com/philipbutcher/philipbutcher.github.io/blob/main/assets/img/Arduino%20Code.txt)
-
-#### Pump Operations
-
- * Extend the carriage
- * Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
- * Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder
- * Double chek tip is resting in the Tip Support Groove
- * Adjust desired flow rate dial or enter value in Arduino [code](https://github.com/philipbutcher/philipbutcher.github.io/blob/main/assets/img/Arduino%20Code.txt)
- * Automated Use:
-   * Adjust desired flow rate
-   * Hit Red Button with silver Casing
- * Manual Use:
-   * Hit third button for forward movement
-   * Hit fourth button for backwards movement
 
 
