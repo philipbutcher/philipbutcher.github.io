@@ -29,29 +29,24 @@ Philip is a senior at Vanderbilt University majoring in Mechanical Engineering w
     
 #### Vanderbilt Fusion Project | Vacuum and Gas Team (August 2022 – Present)
   * Founding member of undergraduate student team devoted to creating an IEC Fusion Reactor on campus
-  * Designed steal reaction chamber and analyzed pump configurations and integration
+  * Designed steel reaction chamber and analyzed pump configurations and integration
   * Negotiated with suppliers for the best prices on pumps, flanges, and other supplies
     
 #### Orientation Leader | Vanderbilt University (April 2022 – November 2022)
-  * Taught 9-week course for first-year students to help transition them toward college
+  * Taught 9-week course for first-year students to help them transition to college
   * Extensive training in mental health awareness, group facilitation, and resources on campus
 
 ## Technical Skills
 
-Philip has been building his expertise in all aspects of design ideation, prototyping, and creation. These skills include:
+Philip has been building his expertise in all aspects of design ideation and engineering. These skills include:
 
-* SolidWorks (DASSAULT SYSTEMS CERTIFIED)
-* Fusion 360
-* MATLAB
-* 3D Printing
-* Laser Cutting
-* AutoCAD
-* Lathe and Mill
-* Microsoft Office Suite (Word, PowerPoint, Excel)
+* CAD Software: SolidWorks (Dassault Systems Certified), Fusion 360, Siemens NX, AutoCAD
+* Prototyping: 3D Printing, Laser Cutting, Molding and Casting, Lathe and Mill
+* Others: MATLAB, Microsoft Office Suite (Word, PowerPoint, Excel), Teamcenter
 
 ## Press 
 
-A project led by Philip for the Nashville Metropolitan Police Department was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
+Philip's leadership in a project for the Nashville Metropolitan Police Department was featured in an article by Vanderbilt University's Center for Innovation, [The Wond'ry](https://www.vanderbilt.edu/the-wondry/2024/02/06/vanderbilt-student-philip-butchers-groundbreaking-drone-technology-revolutionizes-global-law-enforcement/).
 
 ## Awards and Publications
 
