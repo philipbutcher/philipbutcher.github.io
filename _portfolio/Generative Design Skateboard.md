@@ -1,6 +1,6 @@
 ---
 title: "Generative Design Skateboard Truck"
-excerpt: "Skateboard Trucked Created Using Generative Design"
+excerpt: "Skateboard Truck Created Using Generative Design"
 header:
   teaser: /assets/img/Hanger Assembly.png
 
