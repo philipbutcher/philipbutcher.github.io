@@ -2,7 +2,7 @@
 title: "Adjustable Ruck Frame Kit"
 excerpt: "Modular Frame Upgrade Designed with U.S. Army Soldiers"
 header:
-teaser: /assets/img/Assembled Kit.jpg
+  teaser: /assets/img/Assembled Kit.jpg
 
 gallery:
   - url: /assets/img/Solider Wearing Frame.jpg
