@@ -1,6 +1,6 @@
 ---
 title: "Fearful Frankie"
-excerpt: "Autonomous Robot Pet"
+excerpt: "Autonomous Robot Pet Using Ultrasonic Sensors"
 header:
   teaser: /assets/img/Mechatronics.JPEG
 
