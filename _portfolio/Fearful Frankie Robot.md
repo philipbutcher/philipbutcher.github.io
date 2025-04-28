@@ -2,15 +2,15 @@
 title: "Fearful Frankie – Mechatronic Robot Dog"
 excerpt: "Autonomous robot pet that uses ultrasonic sensors to navigate and react to obstacles."
 header:
-  teaser: /assets/img/Mechatronics.jpg
+  teaser: /assets/img/Mechatronics.JPEG
 
 gallery:
-  - url: /assets/img/Mechatronics.jpg
-    image_path: /assets/img/Mechatronics.jpg
+  - url: /assets/img/Mechatronics.JPEG
+    image_path: /assets/img/Mechatronics.JPEG
     alt: "Fearful Frankie Front View"
 ---
 
-<img src="/assets/img/Mechatronics.jpg" alt="Fearful Frankie" style="width:900px;"/>
+<img src="/assets/img/Mechatronics.JPEG" alt="Fearful Frankie" style="width:900px;"/>
 
 ## About	
 Autonomous robots often struggle to mimic lifelike behaviors due to static movements and limited responsiveness. As a part of an solo class project, a small, autonomous robot dog named Fearful Frankie was developed, with the goal of creating realistic, animal-like interactions and dynamic movement patterns. Equipped with ultrasonic sensors, Frankie constantly scans its surroundings, quickly detecting and reacting to obstacles or sudden environmental changes. When the robot detects an object nearby or approaches an edge, it immediately reverses direction, simulating a cautious animal fleeing from danger. In the absence of threats, Frankie continuously exhibits playful, randomized behaviors—moving forward, turning, performing gentle curves, and executing unique “tricks” like a full 360-degree spin or a curious scanning motion—adding lifelike unpredictability and character to its interactions.
