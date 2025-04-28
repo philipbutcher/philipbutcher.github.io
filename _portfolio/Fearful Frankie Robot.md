@@ -25,5 +25,3 @@ Autonomous robots often struggle to mimic lifelike behaviors due to static movem
 - Identified initial torque and RPM limitations, leading to the implementation of geared motors (1:48 gear ratio, 200 RPM).
 - Upgraded from a MOSFET-based H-bridge to IBT-2 motor drivers to manage higher current loads.
 - Developed filtering logic to manage sensor noise and invalid readings, improving robustness.
-
-{% include gallery %}
