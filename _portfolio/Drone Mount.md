@@ -1,5 +1,5 @@
 ---
-title: "Drone Mount"
+title: "MNPD Drone Mount"
 excerpt: "Customizable 3D Printed Drone Mount Being Used Across The Globe"
 header:
   teaser: /assets/img/Drone_Mount_Mannequin.jpg
