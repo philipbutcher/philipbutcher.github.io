@@ -1,40 +1,29 @@
 ---
-title: "Microfluidic Device"
-excerpt: "Resin Printed Device Capable of Separating Particles at the Micron Scale"
+title: "Fearful Frankie – Mechatronic Robot Dog"
+excerpt: "Autonomous robot pet that uses ultrasonic sensors to navigate and react to obstacles."
 header:
-  teaser: /assets/img/Device.jpg
+  teaser: /assets/img/Mechatronics.jpg
 
 gallery:
-  - url: /assets/img/Device.jpg
-    image_path: /assets/img/Device.jpg
-    alt: "Microfluidic Device"
-  - url: /assets/img/Mold.jpg
-    image_path: /assets/img/Mold.jpg
-    alt: "3D Printed Mold"
-  - url: /assets/img/Angled View Microfluid.png
-    image_path: /assets/img/Angled View Microfluid.png
-    alt: "CAD Model of Mold"
-  - url: /assets/img/Top View Microfluid.png
-    image_path: /assets/img/Top View Microfluid.png
-    alt: "Top View of CAD Model"
-    
-
+  - url: /assets/img/Mechatronics.jpg
+    image_path: /assets/img/Mechatronics.jpg
+    alt: "Fearful Frankie Front View"
 ---
 
-<img src="/assets/img/Angled View Microfluid.png" alt="Philip Butcher" style="width:900px;"/>
+<img src="/assets/img/Mechatronics.jpg" alt="Fearful Frankie" style="width:900px;"/>
 
-## About
-Microfluidic devices, which operate on a microscopic scale to precisely manipulate small fluid volumes, are vital in biomedical, chemical, and environmental applications. These devices provide exceptional control over fluid flow, making them particularly effective for separating particles based on size, density, and other physical properties. As part of a class design project, a microfluidic device was developed to separate particles measuring 165 microns and 550 microns in diameter. The device leverages a phenomenon known as pinched flow fractionation, incorporating a narrow pinch zone that transitions into a wider channel to achieve particle separation. Within the confined pinch zone, particles are aligned and organized according to their size. As the channel expands, the particles diverge along distinct trajectories based on their dimensions, enabling highly efficient and precise separation.
-## Design Process
+## About	
+Autonomous robots often struggle to mimic lifelike behaviors due to static movements and limited responsiveness. As a part of an solo class project, a small, autonomous robot dog named Fearful Frankie was developed, with the goal of creating realistic, animal-like interactions and dynamic movement patterns. Equipped with ultrasonic sensors, Frankie constantly scans its surroundings, quickly detecting and reacting to obstacles or sudden environmental changes. When the robot detects an object nearby or approaches an edge, it immediately reverses direction, simulating a cautious animal fleeing from danger. In the absence of threats, Frankie continuously exhibits playful, randomized behaviors—moving forward, turning, performing gentle curves, and executing unique “tricks” like a full 360-degree spin or a curious scanning motion—adding lifelike unpredictability and character to its interactions.
+## Project Highlights
+- **Responsive Obstacle Detection:** Frankie uses two ultrasonic sensors—one forward-facing for obstacle detection and one downward-facing for edge detection. These real time sensors detect any threats and send signals for the robot to act accordingly.
+- **Randomized Behaviors:** Frankie exhibits lifelike randomness, alternating between forward movement, turning, gentle curves, and unique “trick” routines, such as a 360-degree spin and an idle scanning movement.
+- **PWM Speed Control:** Motors are controlled via Pulse Width Modulation (PWM), enabling smooth transitions and precise speed variations, enhancing the robot's lifelike responsiveness.
+- **Rapid Prototyping and Iteration:** Multiple prototypes were rapidly constructed to solve real-world engineering challenges, including torque insufficiencies and power management.
+- **Integrated Mechatronic System:** Combines mechanical design (laser-cut chassis, gearbox motors), electronic components (IBT-2 drivers, Arduino, sensors), and custom software for full autonomous functionality.
 
-* **Design** Using Fusion 360, a mold was designed and created to cast the device. With the goal of separating different sized particles, the instrument features two inlets for liquid to flow into. One inlet introduces a solution containing the mixed particles, while the other carries a buffer solution. The streams merge at a 1.5 mm-wide 'pinched' segment, aligning particles by size as larger particles flow toward the channel center and smaller particles stay closer to the walls. Following this, the channel expands into a 14 mm-wide zone that further separates the particles as they continue along distinct trajectories. Forked outlets at the end of the expansion zone collect the particles based on their positions, enabling effective separation and collection.
-* **Printing and Preparation** With the CAD model complete, the mold could be printed. Using the Formlabs Form 4 resin printer, a highly accurate model was printed and cured using UV light. From there, the mold was coated in a thin layer of Parylene. This serves as a barrier between the epoxy resin and the mold filler, PDMS (polydimethylsiloxane). Mixing these materials could cause feature loss and incomplete curing. After the Parylene was applied, PDMS was poured into the mold, and the device was created. Two thin sheets of glass were added to each side, and the device was ready for testing.
-* **Useability** To test the device, syringe pumps of the mixed particle solution and buffer solution were attached to hoses at each of the inlets. A particle-to-buffer flow rate ratio of approximately 1:9 was set. This high ratio compresses the fluids even more, pushing the smaller particles closer to the outer wall and creating more predictable particle separation. A video of a fellow students device can be found [here](https://www.youtube.com/watch?v=--6JoKgJHCo).
+## Key Technical Learnings
+- Identified initial torque and RPM limitations, leading to the implementation of geared motors (1:48 gear ratio, 200 RPM).
+- Upgraded from a MOSFET-based H-bridge to IBT-2 motor drivers to manage higher current loads.
+- Developed filtering logic to manage sensor noise and invalid readings, improving robustness.
 
-
-## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a45857eb674db70423?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 {% include gallery %}
-
-
-
