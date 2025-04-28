@@ -1,5 +1,5 @@
 ---
-title: "Knee Implants"
+title: "VUMC Knee Implants"
 excerpt: "Radically New Tibial Implants to Mitigate Lipid Contamination"
 header:
   teaser: assets/img/3implantsaftertesting.jpg
