@@ -4,7 +4,7 @@ title: "About Philip Butcher"
 
 ---
 <br>
-Philip is a senior at Vanderbilt University majoring in Mechanical Engineering with minors in Business and Digital Fabrication. He is passionate about product design, sustainability, and developing innovative solutions that blend form and function. His experiences span designing consumer products, collaborating on large-scale engineering projects, and honing technical and creative skills to address real-world challenges. Philip aims to create designs that are not only practical but also sustainable and impactful.
+Philip recently graduated from Vanderbilt University majoring in Mechanical Engineering with minors in Business and Digital Fabrication. He is passionate about product design, sustainability, and developing innovative solutions that blend form and function. His experiences span designing consumer products, collaborating on large-scale engineering projects, and honing technical and creative skills to address real-world challenges. Philip aims to create designs that are not only practical but also sustainable and impactful.
 
 ## Education
 ### Vanderbilt University (May 2025)
